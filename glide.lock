@@ -1,0 +1,6 @@
+hash: 90e25bfef243d7b2e9c90856169842fccd978921fe79ce22036e092342c6a6dc
+updated: 2018-03-16T17:25:47.681148+08:00
+imports:
+- name: github.com/influxdata/influxql
+  version: 47c654dfb4cd3be546b9ed1b37b30d7ab2784ffc
+testImports: []

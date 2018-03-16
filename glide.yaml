@@ -1,0 +1,3 @@
+package: github.com/shanexu/influxdb-cluster
+import:
+- package: github.com/influxdata/influxql
